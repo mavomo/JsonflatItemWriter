@@ -38,7 +38,6 @@ public class BatchConfiguration  extends DefaultBatchConfigurer{
 	private static final String JSON_ROOT_NODE = "Persons";
 	private static final String LINE_SEPARATOR = ",";
 	private static final String INPUT_FILE = "sample-data.csv";
-	//private static final String OUTPUT_FILE  = "sample-output-data.json";
     public static final Charset UTF_8 = Charset.forName("UTF-8");
 
 	
